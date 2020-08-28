@@ -1,8 +1,8 @@
----
-title: "Subject activity means"
----
+# Subject activity means
 
 This project summarizes Nike's data by subkect and by activity, calculating the average of the means and standard deviations of each subject activity
+
+## Data processing
 
 Data was processed as follows
 
@@ -16,3 +16,5 @@ Data was processed as follows
 project.R contains the code used to get the final results
 
 data/ contains the files used for the calculation
+
+
